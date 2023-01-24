@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "LILz+RB/uGUf9Zg7AQ44g+Pg+FdIn8K2GAehLmPHYmwoVa0zJWyQSo5WVJP/NF//HhJ3xZlLL/YNNalGKX7y0A==",
+  "success": true,
+  "projectFilePath": "D:\\work\\WebAPI.OWIN\\WebAPI.OWIN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.9\\microsoft.aspnet.webapi.core.5.2.9.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnet.webapi.owin\\5.2.9\\microsoft.aspnet.webapi.owin.5.2.9.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net461\\1.0.2\\microsoft.netframework.referenceassemblies.net461.1.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.owin\\4.2.2\\microsoft.owin.4.2.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.owin.diagnostics\\4.2.2\\microsoft.owin.diagnostics.4.2.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.owin.host.httplistener\\4.2.2\\microsoft.owin.host.httplistener.4.2.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.owin.hosting\\4.2.2\\microsoft.owin.hosting.4.2.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.owin.selfhost\\4.2.2\\microsoft.owin.selfhost.4.2.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\6.0.4\\newtonsoft.json.6.0.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\owin\\1.0.0\\owin.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
